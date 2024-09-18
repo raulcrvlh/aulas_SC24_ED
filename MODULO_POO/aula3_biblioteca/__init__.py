@@ -1,0 +1,1 @@
+from aula3_pacote.aula3_modulo import nossa_funcao
