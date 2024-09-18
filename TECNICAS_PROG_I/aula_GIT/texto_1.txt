@@ -1,0 +1,11 @@
+O que fizemos até agora?
+1. Baixamos o git
+2. Configuramos o git local 
+    * git config --global user.name ""
+    * git config --global user.email "email usado no github"
+3. Criamos um repositório no GitHub (aula_GIT)
+4. Clonamos o repositório para a máquina local
+    * git clone link_do_repositorio_https
+5. git add. (para demarcar o acompanhamento do arquivo)
+6. git commit -m "mensagem" (para ter o versionamento do código no git local)
+7. git push (para subir as alterações para o GitHub)
